@@ -4,33 +4,50 @@
 
 **小白直接复制 prompt 即可，不需要会写代码，也不需要先安装 Skill。**
 
+## 大家最常用的：前端网页设计风格参考 01–04
+
+> [!IMPORTANT]
+> **来领取「前端网页设计美术风格参考图鉴」的朋友，直接打开下面这份。**
+> **4 张独立图片 × 每张 5 种网页风格 = 20 种风格，3:4 竖版，页码 01–04。**
+
+### 👉 [点击领取完整 Prompt：前端网页设计风格参考 01–04](skills/aki-design-reference/references/web-style-01-04.md)
+
+**[直接打开纯文本，全选复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md)**
+
+这份 prompt 的开头是：「生成一组『前端网页设计美术风格参考图鉴』，共生成 4 张独立的竖版长图，每张图片包含 5 种不同网页设计风格，共 20 种。」
+
+内容包括极简主义、瑞士国际主义、杂志编辑风、玻璃拟态、Bento Grid、拟物、粗野主义、复古互联网、Y2K、赛博朋克、手绘和像素游戏风等 20 种风格。复制全文，粘贴给支持生图的 AI 即可使用。
+
+继续扩展时，可领取[下一批网页风格 05–08](skills/aki-design-reference/references/web-style-05-08.md)。
+
 ## 先选你要的内容
 
 | 想做什么 | 点击查看原文 | 默认输出 |
 |---|---|---|
+| **最常用：前端网页设计美术风格参考** | **[领取 01–04 完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** | **4 张独立图片，共 20 种风格** |
 | 同一个组件尝试不同美术风格 | [美术风格参考图鉴](skills/aki-design-reference/references/design-style-10-pages.md) | 10 张，每张 5 个案例 |
 | 研究组件有哪些结构与功能 | [功能分类参考图鉴](skills/aki-design-reference/references/design-pattern-10-pages.md) | 10 张，每张 5 个案例 |
 | 只复用布局，自选设计主题 | [通用图鉴母版](skills/aki-design-reference/references/layout-master-4-pages.md) | 4 张，每张 5 个案例 |
-| 网页首页风格 | [01–04](skills/aki-design-reference/references/web-style-01-04.md) · [05–08](skills/aki-design-reference/references/web-style-05-08.md) | 每批 4 张 |
+| 扩展更多网页首页风格 | [下一批 05–08](skills/aki-design-reference/references/web-style-05-08.md) | 4 张，共 20 种扩展风格 |
 | 按钮动效 | [01–04](skills/aki-design-reference/references/button-motion-01-04.md) · [05–08](skills/aki-design-reference/references/button-motion-05-08.md) | 每批 4 张 |
 | 页面转场与 Motion Design | [页面转场参考](skills/aki-design-reference/references/page-transition-motion-01-04.md) | 4 张 |
 | Landing Page / 落地页 | [落地页参考](skills/aki-design-reference/references/landing-page-01-04.md) | 4 张 |
 | Navbar / 导航栏 | [导航栏参考](skills/aki-design-reference/references/navbar-01-04.md) | 4 张 |
 
-“美术风格”用来比较同一对象的视觉语言；“功能分类”用来比较类型、结构与交互方式。最新版已拆分这两种用途，强调独立图片与连续页码。
+十页通用版中，“美术风格”用来比较同一对象的视觉语言；“功能分类”用来比较类型、结构与交互方式。它们适合自选主体；领取上方常用网页图鉴时，选择四页的 01–04 版本。
 
 ## 第一次使用
 
-1. 在上表点击你需要的 prompt。
+1. 领取常用网页图鉴时，点击首页上方的 **「前端网页设计风格参考 01–04」**；其他主题按上表选择。
 2. 打开文件后，点击 **Raw** 查看纯文本；全选并复制。也可以直接复制页面中的正文。
 3. 粘贴到你使用的、支持图片生成的 AI 工具里，再补充具体主题。
 4. 如果一次没有生成全部图片，继续要求生成下一页，并明确页码。模板里的数量是目标，实际交付取决于工具能力与额度。
 
-例如，复制“美术风格参考图鉴”后补一句：
+复制常用的「前端网页设计风格参考 01–04」全文后，可以补一句：
 
-> 本次主体是导航栏 Navbar。按这份 prompt 生成 10 张独立图片，每张 5 个案例，页码为 01–10。先列出 50 种不重复风格，再从第 01 页开始生成。
+> 请按这份 prompt 生成 4 张独立图片，每张 5 种网页设计风格，页码为 01–04。每次只生成一页，从第 01 页开始。
 
-只想要文字时可以写：
+如果需要搜索框、导航栏等其他主体，可选择十页通用版；只想要文字时可以写：
 
 > 本次主体是搜索框 Search Bar。请按这份模板整理生图 prompt，先不要生成图片。
 
@@ -70,4 +87,3 @@
 来源日期、提取方式与文件 SHA-256 见 [sources.json](docs/sources.json)。读取范围与未取到的附件见[来源说明](docs/sources.md)。这里只收录本次能完整取到的文本，不代表全部历史生图聊天均已归档。
 
 文本与 Skill 使用 [MIT License](LICENSE)，可以使用、修改和分享，保留许可证即可。品牌主题为虚构创作练习，不表示品牌背书；仓库没有打包第三方参考图、字体、商标素材或官方系统 Skill。生成图片的使用还需遵守所用工具的条款。
-

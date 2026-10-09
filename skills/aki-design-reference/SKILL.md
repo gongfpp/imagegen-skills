@@ -9,10 +9,11 @@ description: 生成前端、App 与游戏 UI 的设计参考图鉴，支持美�
 
 ## 选择模板
 
+- 常用的「前端网页设计美术风格参考图鉴」、网页风格参考 01–04：优先读取 [web-style-01-04.md](references/web-style-01-04.md)，默认 4 张独立图片、每张 5 种风格、共 20 种。用户仅说领取常用前端网页图鉴时采用此版本；明确指定其他主题或十页版本时按对应模板执行。
 - 同一主体比较不同美术风格：读取 [design-style-10-pages.md](references/design-style-10-pages.md)。
 - 比较功能、结构、交互模式：读取 [design-pattern-10-pages.md](references/design-pattern-10-pages.md)。
 - 只沿用图鉴布局、由执行 Agent 选择内容：读取 [layout-master-4-pages.md](references/layout-master-4-pages.md)。
-- 网页风格 01–04 / 05–08：读取 [web-style-01-04.md](references/web-style-01-04.md) 或 [web-style-05-08.md](references/web-style-05-08.md)。
+- 扩展网页风格 05–08：读取 [web-style-05-08.md](references/web-style-05-08.md)。
 - 按钮动效 01–04 / 05–08：读取 [button-motion-01-04.md](references/button-motion-01-04.md) 或 [button-motion-05-08.md](references/button-motion-05-08.md)。
 - 页面转场：读取 [page-transition-motion-01-04.md](references/page-transition-motion-01-04.md)。
 - 落地页：读取 [landing-page-01-04.md](references/landing-page-01-04.md)。
@@ -28,4 +29,3 @@ description: 生成前端、App 与游戏 UI 的设计参考图鉴，支持美�
 图鉴母版统一，案例内容真实区分。风格模式应改变字体、形状、材质和构图；分类模式应体现功能或交互差异。局部组件要放大，静态动效参考采用关键帧与必要标注。
 
 生成后检查独立文件数量、页码、案例数量、文字与差异。图片中的动效示意不等于可运行动画；没有实际图片工具时说明限制并交付可执行 prompt，不声称已生成图片。
-

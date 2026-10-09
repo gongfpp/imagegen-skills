@@ -1,11 +1,13 @@
-【前端设计 Skill & Prompt 免费领取】
+【最常用｜前端网页设计风格参考】
 
-GitHub 仓库：
+4 张独立图片，每张 5 种风格，共 20 种。
+
+直接领取完整 Prompt：
+https://github.com/gongfpp/imagegen-skills/blob/main/skills/aki-design-reference/references/web-style-01-04.md
+
+小白用法：打开文件 → 点击 Raw → 全选复制 → 粘贴给支持生图的 AI。
+
+全部 Skill 与其他 Prompt：
 https://github.com/gongfpp/imagegen-skills
 
-小白用法：打开仓库 → 在 README 选“美术风格”或“功能分类” → 打开文件，点击 Raw 并复制 → 粘贴给支持生图的 AI，再补充你想生成的主体。
-
-完整 Skill：Code → Download ZIP，解压后打开 skills 文件夹。
-
-操作图：
-https://github.com/gongfpp/imagegen-skills/blob/main/docs/github-guide.png
+具体操作见教程图片。
