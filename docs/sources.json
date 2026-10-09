@@ -171,5 +171,87 @@
       "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
       "sha256": "a253430175e835b87cf7b930e65afd01327205a394f61f601c635e771ae77dec"
     }
+  ],
+  "examples": [
+    {
+      "path": "assets/examples/web-style-01.jpg",
+      "title": "前端网页设计风格参考 01",
+      "creator": "城下秋草",
+      "source": "用户本机保存的个人生图成品，按用户要求在 README 展示。",
+      "original_filename": "前端网页设计风格参考_1_城下秋草_来自小红书网页版.jpg",
+      "corresponding_prompt": "skills/aki-design-reference/references/web-style-01-04.md",
+      "extraction": "Copied original JPEG without image edits.",
+      "sha256": "ee526c307e23887add324cdb77f9a64ec16a983caf42a0a0d4443c6fd4b25946"
+    },
+    {
+      "path": "assets/examples/web-style-02.jpg",
+      "title": "前端网页设计风格参考 02",
+      "creator": "城下秋草",
+      "source": "用户本机保存的个人生图成品，按用户要求在 README 展示。",
+      "original_filename": "前端网页设计风格参考_2_城下秋草_来自小红书网页版.jpg",
+      "corresponding_prompt": "skills/aki-design-reference/references/web-style-01-04.md",
+      "extraction": "Copied original JPEG without image edits.",
+      "sha256": "256054d63a6a5c5b9d750b14f7b646a3bf6d652c6d5226660f62439eb9a36a0d"
+    },
+    {
+      "path": "assets/examples/web-style-03.jpg",
+      "title": "前端网页设计风格参考 03",
+      "creator": "城下秋草",
+      "source": "用户本机保存的个人生图成品，按用户要求在 README 展示。",
+      "original_filename": "前端网页设计风格参考_3_城下秋草_来自小红书网页版.jpg",
+      "corresponding_prompt": "skills/aki-design-reference/references/web-style-01-04.md",
+      "extraction": "Copied original JPEG without image edits.",
+      "sha256": "349f2ab531a2e9141e81a5e92a33bfba48a991d0c9bef4a411f367dafe554874"
+    },
+    {
+      "path": "assets/examples/web-style-04.jpg",
+      "title": "前端网页设计风格参考 04",
+      "creator": "城下秋草",
+      "source": "用户本机保存的个人生图成品，按用户要求在 README 展示。",
+      "original_filename": "前端网页设计风格参考_4_城下秋草_来自小红书网页版.jpg",
+      "corresponding_prompt": "skills/aki-design-reference/references/web-style-01-04.md",
+      "extraction": "Copied original JPEG without image edits.",
+      "sha256": "d971576427e7df2a5ed90fabf9f79e115a4635b0b177fed827778c04fd513967"
+    },
+    {
+      "path": "assets/examples/web-style-05.jpg",
+      "title": "前端网页设计风格参考 05",
+      "creator": "城下秋草",
+      "source": "用户本机保存的个人生图成品，按用户要求在 README 展示。",
+      "original_filename": "前端网页设计风格参考 2_1_城下秋草_来自小红书网页版.jpg",
+      "corresponding_prompt": "skills/aki-design-reference/references/web-style-05-08.md",
+      "extraction": "Copied original JPEG without image edits.",
+      "sha256": "46d3b1c4321644b02db6f2be15ead44ea5bdffce33058a4e8116e921928b9fe3"
+    },
+    {
+      "path": "assets/examples/web-style-06.jpg",
+      "title": "前端网页设计风格参考 06",
+      "creator": "城下秋草",
+      "source": "用户本机保存的个人生图成品，按用户要求在 README 展示。",
+      "original_filename": "前端网页设计风格参考 2_2_城下秋草_来自小红书网页版.jpg",
+      "corresponding_prompt": "skills/aki-design-reference/references/web-style-05-08.md",
+      "extraction": "Copied original JPEG without image edits.",
+      "sha256": "ffd4085ce1bde20d51adc540806f7d1b3e7ebea3782fd7f5db29102f4b893289"
+    },
+    {
+      "path": "assets/examples/web-style-07.jpg",
+      "title": "前端网页设计风格参考 07",
+      "creator": "城下秋草",
+      "source": "用户本机保存的个人生图成品，按用户要求在 README 展示。",
+      "original_filename": "前端网页设计风格参考 2_3_城下秋草_来自小红书网页版.jpg",
+      "corresponding_prompt": "skills/aki-design-reference/references/web-style-05-08.md",
+      "extraction": "Copied original JPEG without image edits.",
+      "sha256": "3500d60f7c4660d913f362199422d5b79434fe43e5c595c428f77be029c1f22d"
+    },
+    {
+      "path": "assets/examples/web-style-08.jpg",
+      "title": "前端网页设计风格参考 08",
+      "creator": "城下秋草",
+      "source": "用户本机保存的个人生图成品，按用户要求在 README 展示。",
+      "original_filename": "前端网页设计风格参考 2_4_城下秋草_来自小红书网页版.jpg",
+      "corresponding_prompt": "skills/aki-design-reference/references/web-style-05-08.md",
+      "extraction": "Copied original JPEG without image edits.",
+      "sha256": "c3949184580e8e9e0d1859cf71c2575c35f036290bf98e0afe16b36b75825645"
+    }
   ]
 }

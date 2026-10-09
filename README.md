@@ -20,6 +20,27 @@
 
 继续扩展时，可领取[下一批网页风格 05–08](skills/aki-design-reference/references/web-style-05-08.md)。
 
+## 示例图：最常用的 01–04
+
+下面是「城下秋草」已有的生图成品。点击图片可查看大图，图片下方的链接可直接领取对应批次的完整 prompt。生成效果会随工具与模型变化。
+
+| 示例图 | 示例图 |
+|---|---|
+| **网页风格参考 01**<br>[![前端网页设计风格参考 01](assets/examples/web-style-01.jpg)](assets/examples/web-style-01.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [查看大图](assets/examples/web-style-01.jpg) | **网页风格参考 02**<br>[![前端网页设计风格参考 02](assets/examples/web-style-02.jpg)](assets/examples/web-style-02.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [查看大图](assets/examples/web-style-02.jpg) |
+| **网页风格参考 03**<br>[![前端网页设计风格参考 03](assets/examples/web-style-03.jpg)](assets/examples/web-style-03.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [查看大图](assets/examples/web-style-03.jpg) | **网页风格参考 04**<br>[![前端网页设计风格参考 04](assets/examples/web-style-04.jpg)](assets/examples/web-style-04.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [查看大图](assets/examples/web-style-04.jpg) |
+
+<details>
+<summary><strong>查看更多：扩展网页风格 05–08（点击展开）</strong></summary>
+
+这批包含包豪斯、孟菲斯、终端 UI、Claymorphism、Japandi、Scrollytelling 等 20 种扩展风格。
+
+| 示例图 | 示例图 |
+|---|---|
+| **网页风格参考 05**<br>[![前端网页设计风格参考 05](assets/examples/web-style-05.jpg)](assets/examples/web-style-05.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [查看大图](assets/examples/web-style-05.jpg) | **网页风格参考 06**<br>[![前端网页设计风格参考 06](assets/examples/web-style-06.jpg)](assets/examples/web-style-06.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [查看大图](assets/examples/web-style-06.jpg) |
+| **网页风格参考 07**<br>[![前端网页设计风格参考 07](assets/examples/web-style-07.jpg)](assets/examples/web-style-07.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [查看大图](assets/examples/web-style-07.jpg) | **网页风格参考 08**<br>[![前端网页设计风格参考 08](assets/examples/web-style-08.jpg)](assets/examples/web-style-08.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [查看大图](assets/examples/web-style-08.jpg) |
+
+</details>
+
 ## 先选你要的内容
 
 | 想做什么 | 点击查看原文 | 默认输出 |
