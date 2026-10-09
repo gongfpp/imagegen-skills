@@ -252,6 +252,226 @@
       "corresponding_prompt": "skills/aki-design-reference/references/web-style-05-08.md",
       "extraction": "Copied original JPEG without image edits.",
       "sha256": "c3949184580e8e9e0d1859cf71c2575c35f036290bf98e0afe16b36b75825645"
+    },
+    {
+      "path": "assets/examples/navigation-patterns.png",
+      "title": "导航结构合集",
+      "creator": "城下秋草",
+      "source_chat": "导航栏设计参考生成",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "分析输出 2.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/navbar-01-04.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "3d90f0383a005b93de9327af1a6a127c2f7c714fcc1266c752e5b2596e2bb134"
+    },
+    {
+      "path": "assets/examples/input-patterns.png",
+      "title": "输入框分类合集",
+      "creator": "城下秋草",
+      "source_chat": "Input 输入框-分类",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "分析输出 1.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "95a4adac13716fec7420b4f763073a2c303b7c74006eaebb709c36c2dc4ba05a"
+    },
+    {
+      "path": "assets/examples/search-patterns.png",
+      "title": "搜索框分类合集",
+      "creator": "城下秋草",
+      "source_chat": "本机保存的搜索框设计参考",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "分析输出 1.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "3a2afb74da88f20a3e835282b8687b28fc8532f43f67ec6403262c6d65db5c34"
+    },
+    {
+      "path": "assets/examples/tab-patterns.png",
+      "title": "标签与分段控件合集",
+      "creator": "城下秋草",
+      "source_chat": "Tab / Segmented Control",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "分析输出 2.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "51f3a73f0201a2200bb3c94787dd8594fae5cfd54e8f95e8959da5f9a213d31c"
+    },
+    {
+      "path": "assets/examples/menu-patterns.png",
+      "title": "菜单与下拉框合集",
+      "creator": "城下秋草",
+      "source_chat": "本机保存的菜单设计参考",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "分析输出 1.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "81603ddec588333bec63dfd9ce71219125c502f98409149db75edaa954936c0f"
+    },
+    {
+      "path": "assets/examples/visual-style-template.png",
+      "title": "网页与 App 视觉风格合集",
+      "creator": "城下秋草",
+      "source_chat": "生成网页风格参考图鉴",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "web_app_visual_style_01.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/design-style-10-pages.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "ef8e477bb961ceef40bf3150d6d197c86e5b936fc35bb8759fe885fee6c5e6a2"
+    },
+    {
+      "path": "assets/examples/layout-template.png",
+      "title": "页面布局与页面类型合集",
+      "creator": "城下秋草",
+      "source_chat": "生成网页风格参考图鉴",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "page_layout_type_01.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/layout-master-4-pages.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "8c3712fb302deaa0050f7ee7647b4495b40e675d5f54a1b3b3756ba3441bd4e1"
+    },
+    {
+      "path": "assets/examples/component-template.png",
+      "title": "UI 组件设计合集",
+      "creator": "城下秋草",
+      "source_chat": "生成网页风格参考图鉴",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "ui_component_design_01.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "008d26b78f481a198a52d21d147b90ee9208cb0746c75e5202e70f173f0c953b"
+    },
+    {
+      "path": "assets/examples/landing-page-01.png",
+      "title": "Landing Page 设计风格参考 01",
+      "creator": "城下秋草",
+      "source_chat": "落地页",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "Landing_Page_设计风格参考_01.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/landing-page-01-04.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "64e04fcbe061c475e77c38a9e2d9fa327bf919915ca4f931f3afe81fd17e0cc7"
+    },
+    {
+      "path": "assets/examples/landing-page-02.png",
+      "title": "Landing Page 设计风格参考 02",
+      "creator": "城下秋草",
+      "source_chat": "落地页",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "Landing_Page_设计风格参考_02.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/landing-page-01-04.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "1bfcf232a36f0d855915f497d2c26a10ccdd746615bf43fc9f80f4eb760e6e35"
+    },
+    {
+      "path": "assets/examples/button-motion-01.png",
+      "title": "按钮动效参考 01",
+      "creator": "城下秋草",
+      "source_chat": "历史图库：button-motion-reference-01(1).png",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "button-motion-reference-01(1).png",
+      "corresponding_prompt": "skills/aki-design-reference/references/button-motion-01-04.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "e1eab213c515ca4318eb2ed4a95bf7a1f17882ac5fffabdd978697797d6bedfc"
+    },
+    {
+      "path": "assets/examples/button-motion-06.png",
+      "title": "按钮动效参考 06",
+      "creator": "城下秋草",
+      "source_chat": "历史图库：前端按钮动效风格参考_06.png",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "前端按钮动效风格参考_06.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/button-motion-05-08.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "2e35cda34a76d6ddc86136f244cace2ede2fe460f88f21b7caf11541f909f783"
+    },
+    {
+      "path": "assets/examples/ui-microinteraction-01.png",
+      "title": "UI 微交互动效参考 01",
+      "creator": "城下秋草",
+      "source_chat": "生成网页风格参考图鉴",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "ui_microinteraction_motion_01.png",
+      "corresponding_prompt": "skills/aki-design-reference/references/layout-master-4-pages.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "bc59a227e0bd650e0f44de3fa75ae1fa090181e3e64738ad268369b8be695c58"
+    },
+    {
+      "path": "assets/examples/drinks-collection.png",
+      "title": "drinks 拟人九宫格合集",
+      "creator": "城下秋草",
+      "source_chat": "生成饮料海报插画描述",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "九宫格夏日饮品少女海报.png",
+      "corresponding_prompt": "skills/aki-gijinka-illustration/references/drinks-gijinka.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "0a1f58def09d7b8caa3aefd8d84daaa3f678742da8727179b40a1e3e95e7a342"
+    },
+    {
+      "path": "assets/examples/bottled-water-collection.png",
+      "title": "bottled-water 拟人九宫格合集",
+      "creator": "城下秋草",
+      "source_chat": "短发眼镜要求",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "九大矿泉水品牌动漫海报拼图.png",
+      "corresponding_prompt": "skills/aki-gijinka-illustration/references/bottled-water-gijinka.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "d279cb2c25ad8e22ff7762528d0f60b0ddd697139c5351a83bdd75337f4a30ec"
+    },
+    {
+      "path": "assets/examples/regional-food-collection.png",
+      "title": "regional-food 拟人九宫格合集",
+      "creator": "城下秋草",
+      "source_chat": "动漫美食海报描述",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "中国地方美食拟人图鉴.png",
+      "corresponding_prompt": "skills/aki-gijinka-illustration/references/regional-food-gijinka.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "a576a3be936f6a3573e04c4dd4f572b47e430697b39b79d0bf05f074a16fa228"
+    },
+    {
+      "path": "assets/examples/latiao-collection.png",
+      "title": "latiao 拟人九宫格合集",
+      "creator": "城下秋草",
+      "source_chat": "九款辣条拟人插画",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "九宫格麻辣零食少女图鉴.png",
+      "corresponding_prompt": "skills/aki-gijinka-illustration/references/latiao-gijinka.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "23c0a0c6e41b2db3a6111ae2a62eb70776accb91185802e721a9c4f975d7208d"
+    },
+    {
+      "path": "assets/examples/ice-cream-collection.png",
+      "title": "ice-cream 拟人九宫格合集",
+      "creator": "城下秋草",
+      "source_chat": "生成九张冰淇淋拟人图",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "九宫格冰淇淋少女角色集.png",
+      "corresponding_prompt": "skills/aki-gijinka-illustration/references/ice-cream-gijinka.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "f75f1a7e97d524c8bec253071bdf7702c13d5ac9c056b4d6d0da9caeff063914"
+    },
+    {
+      "path": "assets/examples/software-collection.png",
+      "title": "software 拟人九宫格合集",
+      "creator": "城下秋草",
+      "source_chat": "Anime character illustration",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "中国应用动漫角色九宫格合集.png",
+      "corresponding_prompt": "skills/aki-gijinka-illustration/references/software-gijinka.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "88f0f02adee7435c38701a29c2e845f05e77e49f36d892e0c9377d8107a531d0"
+    },
+    {
+      "path": "assets/examples/cover-collection.png",
+      "title": "个人封面历史方向合集",
+      "creator": "城下秋草",
+      "source_chat": "历史图库：绿色品牌封面设计指南.png",
+      "source": "用户授权展示的历史成图合集；从本机原文件或已登录 ChatGPT 页面获取。",
+      "original_filename": "绿色品牌封面设计指南.png",
+      "corresponding_prompt": "skills/aki-rednote-cover/SKILL.md",
+      "extraction": "Copied original PNG without resizing, cropping or other image edits.",
+      "sha256": "1b8d22af35a326b4784fcd782fea66702383ca079cfd8da25a3d164d8d5866a7"
     }
   ]
 }

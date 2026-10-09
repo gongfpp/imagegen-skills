@@ -1,110 +1,72 @@
 # 城下秋草 · 图片生成 Skill & Prompt
 
-从我的 ChatGPT 原对话整理的生图提示词，重点是**前端设计参考图鉴**：网页风格、组件、按钮动效、页面转场和 Landing Page。也收录系列拟人插画与个人封面 Skill。
+前端设计图鉴、组件参考、动效与拟人插画：**先看合集，选中后点击图片下方的链接领取。**
 
-**小白直接复制 prompt 即可，不需要会写代码，也不需要先安装 Skill。**
+**小白直接复制 Prompt（完整提示词）给支持生图的 AI 即可，不需要写代码。** 图片可点击放大；Skill 是对应主题的可复用规则。
 
-## 大家最常用的：前端网页设计风格参考 01–04
+[网页与 App 视觉风格](#网页与-app-视觉风格) · [UI 组件设计](#ui-组件设计) · [页面布局与 Landing Page](#页面布局与-landing-page) · [按钮动效与 UI 微交互](#按钮动效与-ui-微交互) · [系列拟人插画](#系列拟人插画) · [个人封面](#个人封面)
 
-> [!IMPORTANT]
-> **来领取「前端网页设计美术风格参考图鉴」的朋友，直接打开下面这份。**
-> **4 张独立图片 × 每张 5 种网页风格 = 20 种风格，3:4 竖版，页码 01–04。**
+## 网页与 App 视觉风格
 
-### 👉 [点击领取完整 Prompt：前端网页设计风格参考 01–04](skills/aki-design-reference/references/web-style-01-04.md)
+**网页 01–04 就是常用的「4 张 × 5 种 = 20 种风格」版本。** 05–08 是扩展风格；最后一格是可换主体的通用美术风格模板。
 
-**[直接打开纯文本，全选复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md)**
+| 合集示例 | 合集示例 | 合集示例 |
+| --- | --- | --- |
+| **网页风格 01**<br>[![网页风格 01合集示例](assets/examples/web-style-01.jpg)](assets/examples/web-style-01.jpg)<br>**[完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [Skill](skills/aki-design-reference/SKILL.md) | **网页风格 02**<br>[![网页风格 02合集示例](assets/examples/web-style-02.jpg)](assets/examples/web-style-02.jpg)<br>**[完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [Skill](skills/aki-design-reference/SKILL.md) | **网页风格 03**<br>[![网页风格 03合集示例](assets/examples/web-style-03.jpg)](assets/examples/web-style-03.jpg)<br>**[完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [Skill](skills/aki-design-reference/SKILL.md) |
+| **网页风格 04**<br>[![网页风格 04合集示例](assets/examples/web-style-04.jpg)](assets/examples/web-style-04.jpg)<br>**[完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [Skill](skills/aki-design-reference/SKILL.md) | **网页风格 05**<br>[![网页风格 05合集示例](assets/examples/web-style-05.jpg)](assets/examples/web-style-05.jpg)<br>**[完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [Skill](skills/aki-design-reference/SKILL.md) | **网页风格 06**<br>[![网页风格 06合集示例](assets/examples/web-style-06.jpg)](assets/examples/web-style-06.jpg)<br>**[完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [Skill](skills/aki-design-reference/SKILL.md) |
+| **网页风格 07**<br>[![网页风格 07合集示例](assets/examples/web-style-07.jpg)](assets/examples/web-style-07.jpg)<br>**[完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [Skill](skills/aki-design-reference/SKILL.md) | **网页风格 08**<br>[![网页风格 08合集示例](assets/examples/web-style-08.jpg)](assets/examples/web-style-08.jpg)<br>**[完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [Skill](skills/aki-design-reference/SKILL.md) | **网页 / App 视觉风格**<br>[![网页 / App 视觉风格合集示例](assets/examples/visual-style-template.png)](assets/examples/visual-style-template.png)<br>**[完整 Prompt](skills/aki-design-reference/references/design-style-10-pages.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/design-style-10-pages.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>[旧版四页](skills/aki-design-reference/references/archive/design-style-4-pages.md)<br>换主体，比较不同美术风格 |
 
-这份 prompt 的开头是：「生成一组『前端网页设计美术风格参考图鉴』，共生成 4 张独立的竖版长图，每张图片包含 5 种不同网页设计风格，共 20 种。」
+## UI 组件设计
 
-内容包括极简主义、瑞士国际主义、杂志编辑风、玻璃拟态、Bento Grid、拟物、粗野主义、复古互联网、Y2K、赛博朋克、手绘和像素游戏风等 20 种风格。复制全文，粘贴给支持生图的 AI 即可使用。
+输入框、搜索框、Tab 和菜单使用同一套分类模板；复制后补上图片下方写明的主体即可。
 
-继续扩展时，可领取[下一批网页风格 05–08](skills/aki-design-reference/references/web-style-05-08.md)。
+| 合集示例 | 合集示例 | 合集示例 |
+| --- | --- | --- |
+| **导航结构**<br>[![导航结构合集示例](assets/examples/navigation-patterns.png)](assets/examples/navigation-patterns.png)<br>**[完整 Prompt](skills/aki-design-reference/references/navbar-01-04.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/navbar-01-04.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>面包屑、树形、页内与步骤导航 | **输入框分类**<br>[![输入框分类合集示例](assets/examples/input-patterns.png)](assets/examples/input-patterns.png)<br>**[完整 Prompt](skills/aki-design-reference/references/design-pattern-10-pages.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/design-pattern-10-pages.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>使用时补充主体：输入框 | **搜索框分类**<br>[![搜索框分类合集示例](assets/examples/search-patterns.png)](assets/examples/search-patterns.png)<br>**[完整 Prompt](skills/aki-design-reference/references/design-pattern-10-pages.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/design-pattern-10-pages.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>使用时补充主体：搜索框 |
+| **Tabs / 分段控件**<br>[![Tabs / 分段控件合集示例](assets/examples/tab-patterns.png)](assets/examples/tab-patterns.png)<br>**[完整 Prompt](skills/aki-design-reference/references/design-pattern-10-pages.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/design-pattern-10-pages.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>使用时补充主体：Tab / Segmented Control | **菜单 / 下拉框**<br>[![菜单 / 下拉框合集示例](assets/examples/menu-patterns.png)](assets/examples/menu-patterns.png)<br>**[完整 Prompt](skills/aki-design-reference/references/design-pattern-10-pages.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/design-pattern-10-pages.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>使用时补充主体：菜单与下拉框 | **通用组件分类**<br>[![通用组件分类合集示例](assets/examples/component-template.png)](assets/examples/component-template.png)<br>**[完整 Prompt](skills/aki-design-reference/references/design-pattern-10-pages.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/design-pattern-10-pages.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>按钮、输入、导航、卡片、数据显示 |
 
-## 示例图：最常用的 01–04
+## 页面布局与 Landing Page
 
-下面是「城下秋草」已有的生图成品。点击图片可查看大图，图片下方的链接可直接领取对应批次的完整 prompt。生成效果会随工具与模型变化。
+比较落地页的整体设计，或用通用母版自选页面类型与布局。
 
-| 示例图 | 示例图 |
-|---|---|
-| **网页风格参考 01**<br>[![前端网页设计风格参考 01](assets/examples/web-style-01.jpg)](assets/examples/web-style-01.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [查看大图](assets/examples/web-style-01.jpg) | **网页风格参考 02**<br>[![前端网页设计风格参考 02](assets/examples/web-style-02.jpg)](assets/examples/web-style-02.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [查看大图](assets/examples/web-style-02.jpg) |
-| **网页风格参考 03**<br>[![前端网页设计风格参考 03](assets/examples/web-style-03.jpg)](assets/examples/web-style-03.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [查看大图](assets/examples/web-style-03.jpg) | **网页风格参考 04**<br>[![前端网页设计风格参考 04](assets/examples/web-style-04.jpg)](assets/examples/web-style-04.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-01-04.md) · [查看大图](assets/examples/web-style-04.jpg) |
+| 合集示例 | 合集示例 | 合集示例 |
+| --- | --- | --- |
+| **落地页 · 产品与科技**<br>[![落地页 · 产品与科技合集示例](assets/examples/landing-page-01.png)](assets/examples/landing-page-01.png)<br>**[完整 Prompt](skills/aki-design-reference/references/landing-page-01-04.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/landing-page-01-04.md) · [Skill](skills/aki-design-reference/SKILL.md) | **落地页 · 编辑与创意**<br>[![落地页 · 编辑与创意合集示例](assets/examples/landing-page-02.png)](assets/examples/landing-page-02.png)<br>**[完整 Prompt](skills/aki-design-reference/references/landing-page-01-04.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/landing-page-01-04.md) · [Skill](skills/aki-design-reference/SKILL.md) | **页面布局与类型**<br>[![页面布局与类型合集示例](assets/examples/layout-template.png)](assets/examples/layout-template.png)<br>**[完整 Prompt](skills/aki-design-reference/references/layout-master-4-pages.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/layout-master-4-pages.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>首屏、分屏、叙事、定价、转化 |
 
-<details>
-<summary><strong>查看更多：扩展网页风格 05–08（点击展开）</strong></summary>
+## 按钮动效与 UI 微交互
 
-这批包含包豪斯、孟菲斯、终端 UI、Claymorphism、Japandi、Scrollytelling 等 20 种扩展风格。
+合集通过关键帧和状态序列表达动效，是静态设计参考。页面转场另有文字 Prompt，入口在微交互图片下方。
 
-| 示例图 | 示例图 |
-|---|---|
-| **网页风格参考 05**<br>[![前端网页设计风格参考 05](assets/examples/web-style-05.jpg)](assets/examples/web-style-05.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [查看大图](assets/examples/web-style-05.jpg) | **网页风格参考 06**<br>[![前端网页设计风格参考 06](assets/examples/web-style-06.jpg)](assets/examples/web-style-06.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [查看大图](assets/examples/web-style-06.jpg) |
-| **网页风格参考 07**<br>[![前端网页设计风格参考 07](assets/examples/web-style-07.jpg)](assets/examples/web-style-07.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [查看大图](assets/examples/web-style-07.jpg) | **网页风格参考 08**<br>[![前端网页设计风格参考 08](assets/examples/web-style-08.jpg)](assets/examples/web-style-08.jpg)<br>**[领取完整 Prompt](skills/aki-design-reference/references/web-style-05-08.md)** · [纯文本复制](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/web-style-05-08.md) · [查看大图](assets/examples/web-style-08.jpg) |
+| 合集示例 | 合集示例 | 合集示例 |
+| --- | --- | --- |
+| **按钮动效 · 基础**<br>[![按钮动效 · 基础合集示例](assets/examples/button-motion-01.png)](assets/examples/button-motion-01.png)<br>**[完整 Prompt](skills/aki-design-reference/references/button-motion-01-04.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/button-motion-01-04.md) · [Skill](skills/aki-design-reference/SKILL.md) | **按钮动效 · 扩展**<br>[![按钮动效 · 扩展合集示例](assets/examples/button-motion-06.png)](assets/examples/button-motion-06.png)<br>**[完整 Prompt](skills/aki-design-reference/references/button-motion-05-08.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/button-motion-05-08.md) · [Skill](skills/aki-design-reference/SKILL.md) | **UI 微交互**<br>[![UI 微交互合集示例](assets/examples/ui-microinteraction-01.png)](assets/examples/ui-microinteraction-01.png)<br>**[完整 Prompt](skills/aki-design-reference/references/layout-master-4-pages.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-design-reference/references/layout-master-4-pages.md) · [Skill](skills/aki-design-reference/SKILL.md)<br>[页面转场 Prompt](skills/aki-design-reference/references/page-transition-motion-01-04.md)<br>通用模板补充主体：UI 微交互 |
 
-</details>
+## 系列拟人插画
 
-## 先选你要的内容
+每格用一张九宫格展示整个系列，直接领取对应主题的完整 Prompt。
 
-| 想做什么 | 点击查看原文 | 默认输出 |
-|---|---|---|
-| **最常用：前端网页设计美术风格参考** | **[领取 01–04 完整 Prompt](skills/aki-design-reference/references/web-style-01-04.md)** | **4 张独立图片，共 20 种风格** |
-| 同一个组件尝试不同美术风格 | [美术风格参考图鉴](skills/aki-design-reference/references/design-style-10-pages.md) | 10 张，每张 5 个案例 |
-| 研究组件有哪些结构与功能 | [功能分类参考图鉴](skills/aki-design-reference/references/design-pattern-10-pages.md) | 10 张，每张 5 个案例 |
-| 只复用布局，自选设计主题 | [通用图鉴母版](skills/aki-design-reference/references/layout-master-4-pages.md) | 4 张，每张 5 个案例 |
-| 扩展更多网页首页风格 | [下一批 05–08](skills/aki-design-reference/references/web-style-05-08.md) | 4 张，共 20 种扩展风格 |
-| 按钮动效 | [01–04](skills/aki-design-reference/references/button-motion-01-04.md) · [05–08](skills/aki-design-reference/references/button-motion-05-08.md) | 每批 4 张 |
-| 页面转场与 Motion Design | [页面转场参考](skills/aki-design-reference/references/page-transition-motion-01-04.md) | 4 张 |
-| Landing Page / 落地页 | [落地页参考](skills/aki-design-reference/references/landing-page-01-04.md) | 4 张 |
-| Navbar / 导航栏 | [导航栏参考](skills/aki-design-reference/references/navbar-01-04.md) | 4 张 |
+| 合集示例 | 合集示例 | 合集示例 |
+| --- | --- | --- |
+| **饮料拟人**<br>[![饮料拟人合集示例](assets/examples/drinks-collection.png)](assets/examples/drinks-collection.png)<br>**[完整 Prompt](skills/aki-gijinka-illustration/references/drinks-gijinka.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-gijinka-illustration/references/drinks-gijinka.md) · [Skill](skills/aki-gijinka-illustration/SKILL.md)<br>9 个主题的历史合集 | **瓶装水拟人**<br>[![瓶装水拟人合集示例](assets/examples/bottled-water-collection.png)](assets/examples/bottled-water-collection.png)<br>**[完整 Prompt](skills/aki-gijinka-illustration/references/bottled-water-gijinka.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-gijinka-illustration/references/bottled-water-gijinka.md) · [Skill](skills/aki-gijinka-illustration/SKILL.md)<br>9 个主题的历史合集 | **地方美食拟人**<br>[![地方美食拟人合集示例](assets/examples/regional-food-collection.png)](assets/examples/regional-food-collection.png)<br>**[完整 Prompt](skills/aki-gijinka-illustration/references/regional-food-gijinka.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-gijinka-illustration/references/regional-food-gijinka.md) · [Skill](skills/aki-gijinka-illustration/SKILL.md)<br>9 个主题的历史合集 |
+| **辣条拟人**<br>[![辣条拟人合集示例](assets/examples/latiao-collection.png)](assets/examples/latiao-collection.png)<br>**[完整 Prompt](skills/aki-gijinka-illustration/references/latiao-gijinka.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-gijinka-illustration/references/latiao-gijinka.md) · [Skill](skills/aki-gijinka-illustration/SKILL.md)<br>9 个主题的历史合集 | **冰淇淋拟人**<br>[![冰淇淋拟人合集示例](assets/examples/ice-cream-collection.png)](assets/examples/ice-cream-collection.png)<br>**[完整 Prompt](skills/aki-gijinka-illustration/references/ice-cream-gijinka.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-gijinka-illustration/references/ice-cream-gijinka.md) · [Skill](skills/aki-gijinka-illustration/SKILL.md)<br>9 个主题的历史合集 | **软件拟人**<br>[![软件拟人合集示例](assets/examples/software-collection.png)](assets/examples/software-collection.png)<br>**[完整 Prompt](skills/aki-gijinka-illustration/references/software-gijinka.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-gijinka-illustration/references/software-gijinka.md) · [Skill](skills/aki-gijinka-illustration/SKILL.md)<br>9 个主题的历史合集 |
 
-十页通用版中，“美术风格”用来比较同一对象的视觉语言；“功能分类”用来比较类型、结构与交互方式。它们适合自选主体；领取上方常用网页图鉴时，选择四页的 01–04 版本。
+## 个人封面
+
+这张是历史封面方向合集。当前 Skill 只固定三颗草和用户名「城下秋草」，背景、配色、比例和排版按当次主题调整。
+
+| 合集示例 |
+| --- |
+| **个人封面 · 方向合集**<br>[![个人封面 · 方向合集合集示例](assets/examples/cover-collection.png)](assets/examples/cover-collection.png)<br>**[完整 Skill](skills/aki-rednote-cover/SKILL.md)** · [纯文本](https://raw.githubusercontent.com/gongfpp/imagegen-skills/main/skills/aki-rednote-cover/SKILL.md)<br>历史封面设计方向参考 |
 
 ## 第一次使用
 
-1. 领取常用网页图鉴时，点击首页上方的 **「前端网页设计风格参考 01–04」**；其他主题按上表选择。
-2. 打开文件后，点击 **Raw** 查看纯文本；全选并复制。也可以直接复制页面中的正文。
-3. 粘贴到你使用的、支持图片生成的 AI 工具里，再补充具体主题。
-4. 如果一次没有生成全部图片，继续要求生成下一页，并明确页码。模板里的数量是目标，实际交付取决于工具能力与额度。
+1. 找到想要的合集，点击它下面的 **完整 Prompt**。
+2. 点击 **纯文本 / Raw**，全选并复制完整内容。
+3. 粘贴到支持生图的 AI 中。通用模板再补一句「本次主体是……」；需要多张图时可要求「每次生成一页，页码不要重复」。
 
-复制常用的「前端网页设计风格参考 01–04」全文后，可以补一句：
+<details>
+<summary>展开查看：GitHub 领取与复制的图解教程</summary>
 
-> 请按这份 prompt 生成 4 张独立图片，每张 5 种网页设计风格，页码为 01–04。每次只生成一页，从第 01 页开始。
+![GitHub 领取与复制图解教程](docs/github-guide.png)
 
-如果需要搜索框、导航栏等其他主体，可选择十页通用版；只想要文字时可以写：
-
-> 本次主体是搜索框 Search Bar。请按这份模板整理生图 prompt，先不要生成图片。
-
-按钮动效和页面转场的图片是静态参考，会用关键帧、路径与状态标签说明运动；实际动画需要后续实现。
-
-![GitHub 领取与使用教程](docs/github-guide.png)
-
-## 下载与安装 Skill
-
-点击仓库首页绿色 **Code → Download ZIP**，解压后打开 `skills/`。手机如果看不到 Code 按钮，可以切换电脑浏览器。也可[直接下载 ZIP](https://github.com/gongfpp/imagegen-skills/archive/refs/heads/main.zip)。
-
-| Skill 文件夹 | 用途 |
-|---|---|
-| [aki-design-reference](skills/aki-design-reference/SKILL.md) | 设计图鉴、网页风格、组件与动效参考 |
-| [aki-gijinka-illustration](skills/aki-gijinka-illustration/SKILL.md) | 饮料、食品与软件系列拟人插画 |
-| [aki-rednote-cover](skills/aki-rednote-cover/SKILL.md) | 个人封面，保留三颗草和“城下秋草” |
-
-将需要的**整个文件夹**放进你的 Agent 支持的 skills 目录，保留 `SKILL.md` 和 `references/` 的相对位置。具体目录以所用工具为准；没有 Skill 支持也可以直接使用 prompt。
-
-前两个 Skill 是本次发布时新增的安装入口，内部 prompt 来源于原对话；封面 Skill 使用本机当前版本。
-
-## 其他生图 prompt
-
-| 主题 | 原文 |
-|---|---|
-| 饮料拟人 | [九款饮料，防重复优化版](skills/aki-gijinka-illustration/references/drinks-gijinka.md) |
-| 瓶装水拟人 | [国产瓶装水](skills/aki-gijinka-illustration/references/bottled-water-gijinka.md) |
-| 地方美食拟人 | [中国地方美食](skills/aki-gijinka-illustration/references/regional-food-gijinka.md) |
-| 辣条拟人 | [辣条系列](skills/aki-gijinka-illustration/references/latiao-gijinka.md) |
-| 冰淇淋拟人 | [冰淇淋系列](skills/aki-gijinka-illustration/references/ice-cream-gijinka.md) |
-| 软件拟人 | [国产互联网与软件](skills/aki-gijinka-illustration/references/software-gijinka.md) |
-
-## 来源与版本
-
-本次收录 17 份完整 prompt、3 个 Skill 入口。原文只去掉 ChatGPT 的 writing 包装或最外层 Markdown 代码围栏，未把旧版四页 prompt 改成十页。旧版放在明确的历史路径，按所需系列选择。
-
-来源日期、提取方式与文件 SHA-256 见 [sources.json](docs/sources.json)。读取范围与未取到的附件见[来源说明](docs/sources.md)。这里只收录本次能完整取到的文本，不代表全部历史生图聊天均已归档。
-
-文本与 Skill 使用 [MIT License](LICENSE)，可以使用、修改和分享，保留许可证即可。品牌主题为虚构创作练习，不表示品牌背书；仓库没有打包第三方参考图、字体、商标素材或官方系统 Skill。生成图片的使用还需遵守所用工具的条款。
+</details>

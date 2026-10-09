@@ -1,0 +1,286 @@
+{
+  "categories": [
+    {
+      "title": "网页与 App 视觉风格",
+      "anchor": "网页与-app-视觉风格",
+      "columns": 3,
+      "intro": "**网页 01–04 就是常用的「4 张 × 5 种 = 20 种风格」版本。** 05–08 是扩展风格；最后一格是可换主体的通用美术风格模板。",
+      "cards": [
+        {
+          "title": "网页风格 01",
+          "image": "assets/examples/web-style-01.jpg",
+          "prompt": "skills/aki-design-reference/references/web-style-01-04.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "网页风格 02",
+          "image": "assets/examples/web-style-02.jpg",
+          "prompt": "skills/aki-design-reference/references/web-style-01-04.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "网页风格 03",
+          "image": "assets/examples/web-style-03.jpg",
+          "prompt": "skills/aki-design-reference/references/web-style-01-04.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "网页风格 04",
+          "image": "assets/examples/web-style-04.jpg",
+          "prompt": "skills/aki-design-reference/references/web-style-01-04.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "网页风格 05",
+          "image": "assets/examples/web-style-05.jpg",
+          "prompt": "skills/aki-design-reference/references/web-style-05-08.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "网页风格 06",
+          "image": "assets/examples/web-style-06.jpg",
+          "prompt": "skills/aki-design-reference/references/web-style-05-08.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "网页风格 07",
+          "image": "assets/examples/web-style-07.jpg",
+          "prompt": "skills/aki-design-reference/references/web-style-05-08.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "网页风格 08",
+          "image": "assets/examples/web-style-08.jpg",
+          "prompt": "skills/aki-design-reference/references/web-style-05-08.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "网页 / App 视觉风格",
+          "image": "assets/examples/visual-style-template.png",
+          "prompt": "skills/aki-design-reference/references/design-style-10-pages.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "换主体，比较不同美术风格",
+          "extra_links": [
+            {
+              "label": "旧版四页",
+              "url": "skills/aki-design-reference/references/archive/design-style-4-pages.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "UI 组件设计",
+      "anchor": "ui-组件设计",
+      "columns": 3,
+      "intro": "输入框、搜索框、Tab 和菜单使用同一套分类模板；复制后补上图片下方写明的主体即可。",
+      "cards": [
+        {
+          "title": "导航结构",
+          "image": "assets/examples/navigation-patterns.png",
+          "prompt": "skills/aki-design-reference/references/navbar-01-04.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "面包屑、树形、页内与步骤导航",
+          "extra_links": []
+        },
+        {
+          "title": "输入框分类",
+          "image": "assets/examples/input-patterns.png",
+          "prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "使用时补充主体：输入框",
+          "extra_links": []
+        },
+        {
+          "title": "搜索框分类",
+          "image": "assets/examples/search-patterns.png",
+          "prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "使用时补充主体：搜索框",
+          "extra_links": []
+        },
+        {
+          "title": "Tabs / 分段控件",
+          "image": "assets/examples/tab-patterns.png",
+          "prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "使用时补充主体：Tab / Segmented Control",
+          "extra_links": []
+        },
+        {
+          "title": "菜单 / 下拉框",
+          "image": "assets/examples/menu-patterns.png",
+          "prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "使用时补充主体：菜单与下拉框",
+          "extra_links": []
+        },
+        {
+          "title": "通用组件分类",
+          "image": "assets/examples/component-template.png",
+          "prompt": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "按钮、输入、导航、卡片、数据显示",
+          "extra_links": []
+        }
+      ]
+    },
+    {
+      "title": "页面布局与 Landing Page",
+      "anchor": "页面布局与-landing-page",
+      "columns": 3,
+      "intro": "比较落地页的整体设计，或用通用母版自选页面类型与布局。",
+      "cards": [
+        {
+          "title": "落地页 · 产品与科技",
+          "image": "assets/examples/landing-page-01.png",
+          "prompt": "skills/aki-design-reference/references/landing-page-01-04.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "落地页 · 编辑与创意",
+          "image": "assets/examples/landing-page-02.png",
+          "prompt": "skills/aki-design-reference/references/landing-page-01-04.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "页面布局与类型",
+          "image": "assets/examples/layout-template.png",
+          "prompt": "skills/aki-design-reference/references/layout-master-4-pages.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "首屏、分屏、叙事、定价、转化",
+          "extra_links": []
+        }
+      ]
+    },
+    {
+      "title": "按钮动效与 UI 微交互",
+      "anchor": "按钮动效与-ui-微交互",
+      "columns": 3,
+      "intro": "合集通过关键帧和状态序列表达动效，是静态设计参考。页面转场另有文字 Prompt，入口在微交互图片下方。",
+      "cards": [
+        {
+          "title": "按钮动效 · 基础",
+          "image": "assets/examples/button-motion-01.png",
+          "prompt": "skills/aki-design-reference/references/button-motion-01-04.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "按钮动效 · 扩展",
+          "image": "assets/examples/button-motion-06.png",
+          "prompt": "skills/aki-design-reference/references/button-motion-05-08.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "",
+          "extra_links": []
+        },
+        {
+          "title": "UI 微交互",
+          "image": "assets/examples/ui-microinteraction-01.png",
+          "prompt": "skills/aki-design-reference/references/layout-master-4-pages.md",
+          "skill": "skills/aki-design-reference/SKILL.md",
+          "description": "通用模板补充主体：UI 微交互",
+          "extra_links": [
+            {
+              "label": "页面转场 Prompt",
+              "url": "skills/aki-design-reference/references/page-transition-motion-01-04.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "系列拟人插画",
+      "anchor": "系列拟人插画",
+      "columns": 3,
+      "intro": "每格用一张九宫格展示整个系列，直接领取对应主题的完整 Prompt。",
+      "cards": [
+        {
+          "title": "饮料拟人",
+          "image": "assets/examples/drinks-collection.png",
+          "prompt": "skills/aki-gijinka-illustration/references/drinks-gijinka.md",
+          "skill": "skills/aki-gijinka-illustration/SKILL.md",
+          "description": "9 个主题的历史合集",
+          "extra_links": []
+        },
+        {
+          "title": "瓶装水拟人",
+          "image": "assets/examples/bottled-water-collection.png",
+          "prompt": "skills/aki-gijinka-illustration/references/bottled-water-gijinka.md",
+          "skill": "skills/aki-gijinka-illustration/SKILL.md",
+          "description": "9 个主题的历史合集",
+          "extra_links": []
+        },
+        {
+          "title": "地方美食拟人",
+          "image": "assets/examples/regional-food-collection.png",
+          "prompt": "skills/aki-gijinka-illustration/references/regional-food-gijinka.md",
+          "skill": "skills/aki-gijinka-illustration/SKILL.md",
+          "description": "9 个主题的历史合集",
+          "extra_links": []
+        },
+        {
+          "title": "辣条拟人",
+          "image": "assets/examples/latiao-collection.png",
+          "prompt": "skills/aki-gijinka-illustration/references/latiao-gijinka.md",
+          "skill": "skills/aki-gijinka-illustration/SKILL.md",
+          "description": "9 个主题的历史合集",
+          "extra_links": []
+        },
+        {
+          "title": "冰淇淋拟人",
+          "image": "assets/examples/ice-cream-collection.png",
+          "prompt": "skills/aki-gijinka-illustration/references/ice-cream-gijinka.md",
+          "skill": "skills/aki-gijinka-illustration/SKILL.md",
+          "description": "9 个主题的历史合集",
+          "extra_links": []
+        },
+        {
+          "title": "软件拟人",
+          "image": "assets/examples/software-collection.png",
+          "prompt": "skills/aki-gijinka-illustration/references/software-gijinka.md",
+          "skill": "skills/aki-gijinka-illustration/SKILL.md",
+          "description": "9 个主题的历史合集",
+          "extra_links": []
+        }
+      ]
+    },
+    {
+      "title": "个人封面",
+      "anchor": "个人封面",
+      "columns": 1,
+      "intro": "这张是历史封面方向合集。当前 Skill 只固定三颗草和用户名「城下秋草」，背景、配色、比例和排版按当次主题调整。",
+      "cards": [
+        {
+          "title": "个人封面 · 方向合集",
+          "image": "assets/examples/cover-collection.png",
+          "prompt": "skills/aki-rednote-cover/SKILL.md",
+          "skill": "skills/aki-rednote-cover/SKILL.md",
+          "description": "历史封面设计方向参考",
+          "extra_links": []
+        }
+      ]
+    }
+  ]
+}
