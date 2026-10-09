@@ -1,0 +1,11 @@
+【前端设计 Skill & Prompt 免费领取】
+
+GitHub 仓库：
+https://github.com/gongfpp/imagegen-skills
+
+小白用法：打开仓库 → 在 README 选“美术风格”或“功能分类” → 打开文件，点击 Raw 并复制 → 粘贴给支持生图的 AI，再补充你想生成的主体。
+
+完整 Skill：Code → Download ZIP，解压后打开 skills 文件夹。
+
+操作图：
+https://github.com/gongfpp/imagegen-skills/blob/main/docs/github-guide.png

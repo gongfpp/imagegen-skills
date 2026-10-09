@@ -1,0 +1,23 @@
+Use case: infographic-diagram.
+Create ONE finished high-resolution vertical 3:4 Chinese beginner tutorial infographic for a WeChat official-account automatic reply. Elegant editorial design, ivory background, dark charcoal extremely readable Chinese typography, fresh grass-green accents, generous whitespace. Four clearly numbered steps with simplified GitHub interface diagrams, label diagrams as "界面示意". Avoid tiny text. This is an instruction image, not a cover poster. Footer includes exactly three small grass plants and name 城下秋草. Everything must be legible at phone width.
+Top title exact: "生图 Prompt / Skill 领取指南"
+Subtitle exact: "不会写代码，也可以直接用"
+Small repository label exact: "gongfpp / imagegen-skills"
+Step 1 heading exact: "01 打开仓库链接"
+Body exact: "点击公众号回复的 GitHub 链接"
+Diagram a browser opening the repository name above.
+Step 2 heading exact: "02 在首页选你需要的内容"
+Body exact: "先看 README，点击「美术风格」或「功能分类」"
+Diagram a compact table with two green-highlighted rows "美术风格参考" and "功能分类参考".
+Step 3 heading exact: "03 找到原文，复制"
+Body exact: "打开文件 → 点击 Raw → 全选复制"
+Diagram a simplified document view with a clearly marked Raw button and selected text lines. Do not render fake detailed source code.
+Step 4 heading exact: "04 粘贴给支持生图的 AI"
+Body exact: "补充主体，例如：这次生成导航栏 Navbar"
+Diagram prompt text box and a tiny design-reference page with five horizontal rows.
+Bottom pale green callout, exact: "想安装 Skill？"
+Next line exact: "仓库首页 → Code → Download ZIP"
+Next line exact: "解压后打开 skills 文件夹，找到指定 Skill"
+Small note exact: "手机看不到 Code？用电脑打开。"
+Footer credit exact: "城下秋草"
+Do not include a QR code. No extra slogans, no fake login/payment instructions. Produce one independent complete infographic.

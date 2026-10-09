@@ -1,0 +1,175 @@
+{
+  "collected_on": "2026-10-09",
+  "records": [
+    {
+      "path": "skills/aki-design-reference/references/design-style-10-pages.md",
+      "title": "通用设计美术风格参考图鉴生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-14T14:10:23.716Z",
+      "source_role": "assistant",
+      "source_message": "b70146b2-2033-4b1f-bbbf-1924c1505a19",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "3203b0e77f8bcf2b3e5003e5488e6e2dc599067cd3e1c672710a01f5dbb0ec2a"
+    },
+    {
+      "path": "skills/aki-design-reference/references/design-pattern-10-pages.md",
+      "title": "通用设计功能分类参考图鉴生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-14T14:10:23.716Z",
+      "source_role": "assistant",
+      "source_message": "b70146b2-2033-4b1f-bbbf-1924c1505a19",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "973733da4d49e5ec616db399caa0cef97fa73e62d55af15969e2c2560d7d5504"
+    },
+    {
+      "path": "skills/aki-design-reference/references/archive/design-style-4-pages.md",
+      "title": "通用设计美术风格参考图鉴生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-14T12:01:33.154Z",
+      "source_role": "assistant",
+      "source_message": "bf18097f-d832-4c9b-9533-07369f2d7604",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "1fed0d12bd7b116fd3bb9c282a50e77f5a44ab0b53331bf3fd88c0bf37d43c4f"
+    },
+    {
+      "path": "skills/aki-design-reference/references/layout-master-4-pages.md",
+      "title": "通用设计参考图鉴生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-11T14:17:42.476Z",
+      "source_role": "assistant",
+      "source_message": "05564bf0-9a02-459b-98bb-81ed0384b8ff",
+      "extraction": "Removed enclosing Markdown fence if present.",
+      "sha256": "96e2b92a35b76231f03c5f564074b7d2b90d3e3ee8aba95fb702c7b678bb8d48"
+    },
+    {
+      "path": "skills/aki-design-reference/references/navbar-01-04.md",
+      "title": "导航栏 Navbar 设计风格参考图鉴生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-11T14:17:42.476Z",
+      "source_role": "assistant",
+      "source_message": "9754a67d-372b-476d-9234-6b058dec6e13",
+      "extraction": "Removed enclosing Markdown fence if present.",
+      "sha256": "fcc4a56d804af6fab37b72fbd5a98fad5208add687922f3e1e7bdc880c952278"
+    },
+    {
+      "path": "skills/aki-design-reference/references/landing-page-01-04.md",
+      "title": "Landing Page 设计风格参考 01–04 生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-10T13:49:40.423Z",
+      "source_role": "assistant",
+      "source_message": "f6ddc33e-e739-4ec5-98f4-f16752c3c063",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "c80bfe42030091487583d19121827eea4810390614115e69d2b7a5bd4bfa429d"
+    },
+    {
+      "path": "skills/aki-design-reference/references/page-transition-motion-01-04.md",
+      "title": "页面转场与 Motion Design 风格参考 01–04 生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-08T18:47:54.717Z",
+      "source_role": "assistant",
+      "source_message": "4b15b94c-372c-4c43-8c3e-1d0786cf8669",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "60b8263f5e7465a16c4bc19fbafb0623488a44ce889212164e31cdfbeee62b80"
+    },
+    {
+      "path": "skills/aki-design-reference/references/button-motion-05-08.md",
+      "title": "前端按钮动效风格参考 05–08 生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-08T18:40:04.444Z",
+      "source_role": "assistant",
+      "source_message": "3d1c8d0d-4978-4cfa-a9c1-3747df9bfbde",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "fcec7f4560e33608664c2e205a818d2e47161148813ffb49c3a2fef22978ef0a"
+    },
+    {
+      "path": "skills/aki-design-reference/references/button-motion-01-04.md",
+      "title": "前端按钮动效风格参考 01–04 生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-08T17:56:06.989Z",
+      "source_role": "assistant",
+      "source_message": "79cd7b56-7a55-4488-88be-40dad6c63451",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "3e78d8111b7fff9ea0ee95dee799cba8989f82bfd34cbc0e2daa08eb399f5956"
+    },
+    {
+      "path": "skills/aki-design-reference/references/web-style-01-04.md",
+      "title": "前端网页设计风格参考 01–04 生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-07T17:28:51.878Z",
+      "source_role": "assistant",
+      "source_message": "99df3410-2ca2-48f1-a187-1efcfb4b0056",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "ad45bd44bdb92d0611518a9fdd77cbf76129d027caf76bec6b2a6b8a84347947"
+    },
+    {
+      "path": "skills/aki-design-reference/references/web-style-05-08.md",
+      "title": "前端网页设计风格参考 05–08 生成 Prompt",
+      "source_chat": "【风格参考 prompt】",
+      "source_date": "2026-09-07T17:28:51.878Z",
+      "source_role": "assistant",
+      "source_message": "99df3410-2ca2-48f1-a187-1efcfb4b0056",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "320234ced37e2683e5f392fce15e028c3d6e1556b18810b5e08b1b39f3f2ae53"
+    },
+    {
+      "path": "skills/aki-gijinka-illustration/references/software-gijinka.md",
+      "title": "国产互联网 / 软件拟人娘系列 Prompt",
+      "source_chat": "反推图片生成提示词",
+      "source_date": "2026-09-22T11:54:54.581Z",
+      "source_role": "assistant",
+      "source_message": "a3d6293f-347a-4f57-84cd-03096c384861",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "c51825109eb36f99d34c435537d811adeaf5098f45de2e3c34f3998436b3597c"
+    },
+    {
+      "path": "skills/aki-gijinka-illustration/references/bottled-water-gijinka.md",
+      "title": "国产瓶装水拟人娘系列 Prompt",
+      "source_chat": "反推图片生成提示词",
+      "source_date": "2026-09-22T11:53:47.190Z",
+      "source_role": "assistant",
+      "source_message": "a92106ed-abca-4f4a-b2f9-d370451632ac",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "49c9a5ccc168dd3d84ada8da7621f2bede32fa2a0aa8b75c54f07a1f3033299e"
+    },
+    {
+      "path": "skills/aki-gijinka-illustration/references/regional-food-gijinka.md",
+      "title": "中国地方美食拟人娘系列 Prompt",
+      "source_chat": "反推图片生成提示词",
+      "source_date": "2026-09-22T11:52:46.386Z",
+      "source_role": "assistant",
+      "source_message": "b8a4c04a-4e85-4478-abda-71b713911c05",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "214ed0f38147e0660ebe6badd5bfef3821398bd27af3c928c4986bd3e3582187"
+    },
+    {
+      "path": "skills/aki-gijinka-illustration/references/latiao-gijinka.md",
+      "title": "辣条拟人娘系列 Prompt",
+      "source_chat": "反推图片生成提示词",
+      "source_date": "2026-09-22T11:50:18.203Z",
+      "source_role": "assistant",
+      "source_message": "a4e7a151-2e4e-47ec-9ea9-edba319d1d04",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "1421bf67e65b2732ad14840f5604839a432609642c0f5d0224d66a7182d8bd35"
+    },
+    {
+      "path": "skills/aki-gijinka-illustration/references/ice-cream-gijinka.md",
+      "title": "冰淇淋拟人娘系列 Prompt",
+      "source_chat": "反推图片生成提示词",
+      "source_date": "2026-09-22T11:50:18.203Z",
+      "source_role": "assistant",
+      "source_message": "a4e7a151-2e4e-47ec-9ea9-edba319d1d04",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "bf58602aa684f21365dd936ac08f7e510a19db07e268ddd0d69c86c66edc046a"
+    },
+    {
+      "path": "skills/aki-gijinka-illustration/references/drinks-gijinka.md",
+      "title": "九款饮料拟人娘｜防重复优化版 Prompt",
+      "source_chat": "反推图片生成提示词",
+      "source_date": "2026-09-22T11:47:41.764Z",
+      "source_role": "assistant",
+      "source_message": "51c63c4d-bc93-4bed-be87-60f1a646a38b",
+      "extraction": "Removed only writing-block wrapper and surrounding conversational text.",
+      "sha256": "a253430175e835b87cf7b930e65afd01327205a394f61f601c635e771ae77dec"
+    }
+  ]
+}
